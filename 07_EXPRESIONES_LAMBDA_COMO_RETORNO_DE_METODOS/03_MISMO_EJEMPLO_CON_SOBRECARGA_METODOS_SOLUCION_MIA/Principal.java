@@ -13,7 +13,7 @@ public class Principal {
     }
     public static CalculadoraInt engine_0(int x1, int y1){
 
-        System.out.println("Parametros de la suma: " + x1 +"," +y1);
+        //System.out.println("Parametros de la suma: " + x +"," +y);
         return (x,y) -> x + y;
     }
      
