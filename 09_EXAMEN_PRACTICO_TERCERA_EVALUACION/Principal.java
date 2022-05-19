@@ -21,5 +21,4 @@ public class Principal{
 		a1.operacionPrueba(b1,operacionPrueba(b2),c1);
 	}
 
-
 }
