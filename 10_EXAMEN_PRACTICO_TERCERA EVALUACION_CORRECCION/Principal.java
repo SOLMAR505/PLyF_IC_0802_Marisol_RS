@@ -5,13 +5,13 @@ public class Principal{
 		//3
 		PruebaExamen pe;
 		//4
-		pe = (b1,b2,b3) -> {System.out.println(1 + 4 + 6);};
+		pe = (b1,b2,b3) -> System.out.println(1 + 4 + 6);
 		//5
 		System.out.println(PruebaExamen.operacionPrueba( 1,2));
 		//6 y 7
 		pe.mensajeHola("hola");
 		//8
-		pe = (b1,b2,b3) -> {System.out.println(1+(2*3));};
+		pe = (b1,b2,b3) -> System.out.println(1+(2*3));
 		//9
 		pe.operacionPrueba(5, PruebaExamen.operacionPrueba(7,7),PruebaExamen.operacionPrueba(2,2));
 		//12
