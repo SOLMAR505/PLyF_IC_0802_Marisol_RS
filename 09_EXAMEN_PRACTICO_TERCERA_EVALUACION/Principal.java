@@ -13,7 +13,7 @@ public class Principal{
 		pe -> pe (System.out.println(5,6,8) -> z + (b/c));
 		miMetodo(pe, 6, 7, 8); 
 	}
-
+	
 	private static void miMetodo(pruebaExamen m){
 		m.operacionPrueba(5,operacionPrueba(7,8), operacionPrueba(1,2));
 	}
