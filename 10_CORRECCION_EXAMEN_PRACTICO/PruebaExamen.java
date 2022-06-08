@@ -3,7 +3,7 @@ public interface PruebaExamen{
 //2
 	default public void mensajeHola(){
 		//3
-		System.out.print("Hola mi nimbre es: Marisol Reyes");
+		System.out.print("Hola mi nombre es: Marisol Reyes");
 	}
 	
 	//4
